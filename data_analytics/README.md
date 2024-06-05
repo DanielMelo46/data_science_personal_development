@@ -1,7 +1,7 @@
 # Data Analytics
 We first have to understand that data analysis and data analytics is not the same.
 Data analytics comprehends the science of data. We can understand data analytics as an umbrella that covers the whole **data** subject, whereas data analysis tries to answer existing questions about data, and transform those answers into insights that support **data-driven** decisions and strategies.
-Normally, these decisions and stratefies are validated with subject matter experts, who are aware of the bussiness processes and can verify whether a decision makes sense or not.
+Normally, these decisions and strategies are validated with subject matter experts, who are aware of the bussiness processes and can verify whether a decision makes sense or not.
 
 As a Data Analyst, you have the ability to empower businesses to incorporate **data-driven** culture, and so, you are supossed to:
 - **Ask:** Make useful and relevant question that can help you to either understand the problem you're facing or find actual ways to dive into available data and information.
