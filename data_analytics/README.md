@@ -20,5 +20,12 @@ This work flow is normally accompanied by a set of skills you'll need to have in
  - **Data design:** How effective you are when it comes to structure data in order to make analysis easier and more insightful.
  - **Data strategy:** Last, but not least, data strategy is about the managment of the people, processes and tools used in data analysis. What kinds of tools will you use? Why (what proccess is supposed to be completed next and why is the tool we are going to use the most adequate one)?
  *(Google)*
- ## Analytical Thinking and its aspects
-
+## Data-lifecycle
+Just like human beings, data has its own life cycle as well.
+This means, we can describe different stages when we process and use data:
+- ***Plan:***: It is about deciding what kind of data is needed and how will we manage it. Normally, in this stage, the responsible person of this data is defined.
+- ***Capture:*** It regards deciding how is the process to collect data going to work, techniques and protocols of data collection are defined here.
+- ***Manage:***This step is about how will we maintain the data and how will we storage it (tools? people? technologies?).
+- ***Analyze:*** Use the data to solve problems, make decisions, and support business goals.
+- ***Archive:*** Keep relevant data stored for long-term and future reference.
+- ***Destroy:*** Remove data from storage and delete any shared copies of the data.
