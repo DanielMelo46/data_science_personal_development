@@ -29,3 +29,10 @@ This means, we can describe different stages when we process and use data:
 - ***Analyze:*** Use the data to solve problems, make decisions, and support business goals.
 - ***Archive:*** Keep relevant data stored for long-term and future reference.
 - ***Destroy:*** Remove data from storage and delete any shared copies of the data.
+
+## Types of problems solved using Data Analysis:
+Analyzing data is more than just plugging information into a platform in order to find insights. We analyze data in order to solve a problem, and the way we approach whose problems depends on the type of problem we are facing.
+According to Google, there are six different types of problems we generally face:
+- **Making predictions:** Stakeholders are interested in making predictions of the product or service they produce/serve so that actions can be taken to increase the project's success. We as data analysts cannot guarantee future results, but we can predict the future product behavior based on the available data.
+- **Categorizing things:** In this type of problem, there is a need to classify or identify the objects or things the data is describing (this categorization depends on the context of the questions asked in the ask phase) so we can relate those categories to each set of data available and act based on the findings.
+- **Spotting something unusual:** There are certain contexts in which anomalies play a very important role. Detecting of these anomalies becomes crucial, and we can use data analysis to capture them.
