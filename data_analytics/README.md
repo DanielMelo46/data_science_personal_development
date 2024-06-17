@@ -39,3 +39,5 @@ According to Google, there are six different types of problems we generally face
 - **Identifying themes:** Some UX designers might rely on data analysts to identify themes to help prioritize the right product features for improvement.
 - **Discovering Connections:** It is about how data analysts can use their capabilities to understand the impact of a party's actions in a multy-party relationship on the results that their cooperation aims to achieve.
 This leads to improved ways in which correlated actions drive better results for the project the parties are working on.
+- **Finding Patterns:** This is about finding correlations between variables whose state or value impacts the behavior of other variables. Sometimes, the way  a variable behaves affects an specific result in the most of cases.
+For example, imagine an insight obtained from maintenance data, where we concluded that most of system failures happen when maintenance windows are delayed by more that 7 days.
