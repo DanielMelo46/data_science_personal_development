@@ -4,8 +4,9 @@ Data analytics comprehends the science of data. We can understand data analytics
 Normally, these decisions and strategies are validated with subject matter experts, who are aware of the bussiness processes and can verify whether a decision makes sense or not.
 
 As a Data Analyst, you have the ability to empower businesses to incorporate **data-driven** culture, and so, you are supossed to:
-- **##Ask:** Make useful and relevant questions that can help you to either understand the problem you're facing or find actual ways to dive into available data and information.
-- **##Prepare:** 
+## Ask
+Make useful and relevant questions that can help you to either understand the problem you're facing or find actual ways to dive into available data and information.
+## Prepare
 Once you've asked relevant questions about the problem you're trying to face using data analysis, collection and storage of that data should be defined here.
 
 The first defined step regards **data collection**. In order to collect data, you'll have to take certain aspects into account:
@@ -18,14 +19,18 @@ The first defined step regards **data collection**. In order to collect data, yo
 - **Solving your business problem:** Once data is obtained, we need to make sure we've identified the most relevant data to the problem we are trying to solve.
 - **Time frame:**
 Sometimes, the time frame available to collect or process data is not very long or relevant. At those cases, we want to select a time frame that represents the behavior of the data variables in the situation we want to deep in.
-![Flowchart](images/collection flow chart.png)
+[Flowchart](images/collection flow chart.png)
 
-- **##Process:** It involves every necessary process that allows us as analysts to clean our data and so, make it meaningful
-- **##Analyze:** Using tools such as Python, R, Tableau and SQL, are you able to find any behaviour in the data you're processing so far? What are your conclusions?
-- **##Share:** It involves being effective when showing those insights to the stakeholders involved in the project you're working for.
-- **##Act:** Although we do have to analyze data using technical skills, action and collaboration with different areas, depending on the project we're working on, is actually the most important part of the work. This is the moment when decisions are made and become data-driven.
+## Process
+ It involves every necessary process that allows us as analysts to clean our data and so, make it meaningful
+## Analyze
+Using tools such as Python, R, Tableau and SQL, are you able to find any behaviour in the data you're processing so far? What are your conclusions?
+## Share
+It involves being effective when showing those insights to the stakeholders involved in the project you're working for.
+## Act
+Although we do have to analyze data using technical skills, action and collaboration with different areas, depending on the project we're working on, is actually the most important part of the work. This is the moment when decisions are made and become data-driven.
 
-## Skills
+# Skills
 This work flow is normally accompanied by a set of skills you'll need to have in order to actually solve problems with data analysis:
 
  - **Curiosity:** This is the ability to wonder when no one else is asking. To get interested in things that hide data impact and actually understand their potential.
