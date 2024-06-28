@@ -4,12 +4,26 @@ Data analytics comprehends the science of data. We can understand data analytics
 Normally, these decisions and strategies are validated with subject matter experts, who are aware of the bussiness processes and can verify whether a decision makes sense or not.
 
 As a Data Analyst, you have the ability to empower businesses to incorporate **data-driven** culture, and so, you are supossed to:
-- **Ask:** Make useful and relevant questions that can help you to either understand the problem you're facing or find actual ways to dive into available data and information.
-- **Prepare:** Once you've asked relevant questions about the problem you're trying to face using data analysis, collection and storage of that data should be defined here.
-- **Process:** It involves every necessary process that allows us as analysts to clean our data and so, make it meaningful
-- **Analyze:** Using tools such as Python, R, Tableau and SQL, are you able to find any behaviour in the data you're processing so far? What are your conclusions?
-- **Share:** It involves being effective when showing those insights to the stakeholders involved in the project you're working for.
-- **Act:** Although we do have to analyze data using technical skills, action and collaboration with different areas, depending on the project we're working on, is actually the most important part of the work. This is the moment when decisions are made and become data-driven.
+- **##Ask:** Make useful and relevant questions that can help you to either understand the problem you're facing or find actual ways to dive into available data and information.
+- **##Prepare:** 
+Once you've asked relevant questions about the problem you're trying to face using data analysis, collection and storage of that data should be defined here.
+
+The first defined step regards **data collection**. In order to collect data, you'll have to take certain aspects into account:
+- **How the data will be collected:** We have the option to collect data by ourself (first-party) or to obtain it from another party (generally, data is bought).
+    - **How much data to collect:**
+    We must decide an appropiate data amount that is relevant to the project's needs, and so, definining the appropiate size of the samples we may use in data analysis.
+    - **Collection time frames:**
+    If you are collecting your own data, deciding an appropiate time frame that represents the situation we want to analyze, is key to ensure our analysis is relevant to the problem.
+- **Data sources:** If you are going to obtain data that was collected by certain organization or person, then we can defin this as **second-party** data, but, if the data was collected by a different party and shared with us by a party we know, then we can define this data source as **third-party data.**
+- **Solving your business problem:** Once data is obtained, we need to make sure we've identified the most relevant data to the problem we are trying to solve.
+- **Time frame:**
+Sometimes, the time frame available to collect or process data is not very long or relevant. At those cases, we want to select a time frame that represents the behavior of the data variables in the situation we want to deep in.
+![Flowchart](images/collection flow chart.png)
+
+- **##Process:** It involves every necessary process that allows us as analysts to clean our data and so, make it meaningful
+- **##Analyze:** Using tools such as Python, R, Tableau and SQL, are you able to find any behaviour in the data you're processing so far? What are your conclusions?
+- **##Share:** It involves being effective when showing those insights to the stakeholders involved in the project you're working for.
+- **##Act:** Although we do have to analyze data using technical skills, action and collaboration with different areas, depending on the project we're working on, is actually the most important part of the work. This is the moment when decisions are made and become data-driven.
 
 ## Skills
 This work flow is normally accompanied by a set of skills you'll need to have in order to actually solve problems with data analysis:
