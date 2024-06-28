@@ -19,7 +19,8 @@ The first defined step regards **data collection**. In order to collect data, yo
 - **Solving your business problem:** Once data is obtained, we need to make sure we've identified the most relevant data to the problem we are trying to solve.
 - **Time frame:**
 Sometimes, the time frame available to collect or process data is not very long or relevant. At those cases, we want to select a time frame that represents the behavior of the data variables in the situation we want to deep in.
-[Flowchart](images/collection flow chart.png)
+
+[Flowchart](./images/collection_flow_chart.png)
 
 ## Process
  It involves every necessary process that allows us as analysts to clean our data and so, make it meaningful
